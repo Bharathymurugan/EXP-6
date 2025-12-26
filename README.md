@@ -21,6 +21,8 @@ I. Connect the multimeter at the output of kit..
 3. More the gauge from zero to maximum of 20mm.
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
+<img width="1098" height="1600" alt="image" src="https://github.com/user-attachments/assets/be4c7672-7700-438b-abfb-73b8c7f6cf77" />
+
 
 
 OBSERVATION TABLE
